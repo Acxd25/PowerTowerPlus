@@ -1,3 +1,5 @@
+<strong>Support me on [Patreon](https://patreon.com/realisotope) or [Ko-Fi](https://ko-fi.com/isotope) </strong>💙  
+
 # Power Tower Plus  
 ---
 
