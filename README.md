@@ -1,5 +1,7 @@
 <strong>Support me on [Patreon](https://patreon.com/realisotope) or [Ko-Fi](https://ko-fi.com/isotope) </strong>💙  
-
+Source is available for anyone to freely use, modify or update.  
+I grant the SMM team permission to update this mod in the event that I become inactive.
+  
 # Power Tower Plus  
 
 Adds 4 new modified Power Towers with expanded connection range, several power connectors, separate power grid lines and logistical supports.  
